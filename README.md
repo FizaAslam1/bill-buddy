@@ -59,18 +59,17 @@ in a numbered/bulleted format.
 
 ## f. Screenshots
 
+**Signup Page**
+![Signup Page](screenshots/signup.png)
 
-```markdown
-![Signup Page]
-<img width="955" height="410" alt="Screenshot 2026-07-19 222550" src="https://github.com/user-attachments/assets/637acb51-12b5-4cfc-a1ab-48c054980231" />
+**Sign In Page**
+![Sign In Page](screenshots/login.png)
 
-![Dashboard with Trend Chart]
-<img width="959" height="416" alt="Screenshot 2026-07-19 222526" src="https://github.com/user-attachments/assets/56294017-b1e5-45ca-b7e4-a3b3baf5cf18" />
+**Dashboard — Bill Trend Chart**
+![Dashboard with Trend Chart](screenshots/dashboard.png)
 
-![AI Advice Card]
-<img width="950" height="454" alt="Screenshot 2026-07-19 222540" src="https://github.com/user-attachments/assets/4cc92013-07db-419d-88b9-b50233f402ed" />
-
-```
+**AI Bill Advice**
+![AI Advice Card](screenshots/ai-advice.png)
 
 ## g. How to run the project
 
