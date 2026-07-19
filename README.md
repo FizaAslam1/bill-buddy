@@ -59,7 +59,6 @@ in a numbered/bulleted format.
 
 ## f. Screenshots
 
-> *(Add at least 3 screenshots here — e.g. signup page, dashboard with chart, AI advice card. Example markdown below.)*
 
 ```markdown
 ![Signup Page]
