@@ -83,14 +83,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         content:
           "Track your monthly electricity bills, visualize spending, and get AI-powered saving tips tailored for Pakistani households.",
       },
-      { property: "og:title", content: "Bill Advisor — Smart Utility Bill Tracking" },
+      { property: "og:title", content: "Bill Advisor — Track & Save on Pakistani Utility Bills" },
       {
         property: "og:description",
         content:
-          "Log your PKR electricity bills and receive personalized AI advice to lower next month's bill.",
+          "Track your monthly electricity bills, visualize spending, and get AI-powered saving tips tailored for Pakistani households.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Bill Advisor — Track & Save on Pakistani Utility Bills" },
+      { name: "twitter:description", content: "Track your monthly electricity bills, visualize spending, and get AI-powered saving tips tailored for Pakistani households." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/635509bf-f4b8-4c21-857c-d53f4618b7cb" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/635509bf-f4b8-4c21-857c-d53f4618b7cb" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
